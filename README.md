@@ -115,7 +115,7 @@ You should see outputs printed in the terminal and saved in the folder.
 ---
 ### 📈 Visualization
 
-![Bar Chart: Total Orders per Product](confusion_matrix.png.png)
+![Bar Chart: Total Orders per Product](confusion_matrix.png)
 ![Bar Chart: Total Orders per Product](correlation_heatmap.png)
 ![Bar Chart: Total Orders per Product](feature_importances.png)
 
