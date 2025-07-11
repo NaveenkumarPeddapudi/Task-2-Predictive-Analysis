@@ -1,0 +1,27 @@
+Metric,Value
+Accuracy,0.8212
+,
+Confusion Matrix,
+True Negative,92
+False Positive,13
+False Negative,19
+True Positive,55
+,
+Classification Report,
+0 - precision,0.8288
+0 - recall,0.8762
+0 - f1-score,0.8519
+0 - support,105.0000
+1 - precision,0.8088
+1 - recall,0.7432
+1 - f1-score,0.7746
+1 - support,74.0000
+accuracy,0.8212
+macro avg - precision,0.8188
+macro avg - recall,0.8097
+macro avg - f1-score,0.8132
+macro avg - support,179.0000
+weighted avg - precision,0.8206
+weighted avg - recall,0.8212
+weighted avg - f1-score,0.8199
+weighted avg - support,179.0000
