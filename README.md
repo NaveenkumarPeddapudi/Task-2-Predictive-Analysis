@@ -1,3 +1,14 @@
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: PEDDAPUDI NAVEENKUMAR
+
+INTERN ID: CT08DH1065
+
+DOMAIN: Data Analysis
+
+DURATION: 4 WEEEKS
+
+MENTOR: NEELA SANTOSH
 
 # 🚢 Titanic Survival Prediction – Task-2: Predictive Analysis
 
